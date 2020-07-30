@@ -1,5 +1,9 @@
 # README
 
+Une base de données pour une application qui associe des dogsitters et des chiens
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
